@@ -2,7 +2,7 @@
     "name": "dijky/cereal-php",
     "description": "PHP implementation of the C++ Cereal serialization library",
     "type": "library",
-    "license": "proprietary",
+    "license": "MIT",
     "authors": [
         {
             "name": "Dijky",
