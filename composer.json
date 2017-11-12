@@ -1,0 +1,19 @@
+{
+    "name": "dijky/cereal-php",
+    "description": "PHP implementation of the C++ Cereal serialization library",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Dijky",
+            "email": "dijky@outlook.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dijky\\Cereal\\": "lib/Cereal/"
+        }
+    }
+}
